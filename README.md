@@ -1,2 +1,2 @@
 # projeto-MUSICDOT
-SITE DE MUSICA
+SITE DE MUSICA por sophya barrteto, sofia duarte, maria eduarda
